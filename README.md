@@ -1,2 +1,3 @@
 # hello-world
-test repository
+## this file is a test repository
+My name is Adair. I like coffee
